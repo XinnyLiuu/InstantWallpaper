@@ -1,0 +1,25 @@
+{
+  "name": "insta_wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insta_wallpaper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node insta_wallpaper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinnyLiuu/insta_wallpaper_scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinnyLiuu/insta_wallpaper_scrape/issues"
+  },
+  "homepage": "https://github.com/XinnyLiuu/insta_wallpaper_scrape#readme"
+}
