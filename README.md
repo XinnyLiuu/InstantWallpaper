@@ -1,4 +1,4 @@
-# insta_wallpaper_scrape
+# InstantWallpaper
 - Web scraper script written in JavaScript using Request and Cheerio that scrapes wallpapers from r/wallpaper.
 
 # Usage
